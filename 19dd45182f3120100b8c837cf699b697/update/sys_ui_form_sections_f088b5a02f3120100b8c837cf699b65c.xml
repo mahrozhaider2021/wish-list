@@ -35,12 +35,12 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c588b5a02f3120100b8c837cf699b670</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_560804_wish_list_wish_item" name="x_560804_wish_list_wish_item" sys_domain="global" view="Default view">f088b5a02f3120100b8c837cf699b65c</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_560804_wish_list_wish_item" sys_domain="global" view="Default view">f088b5a02f3120100b8c837cf699b65b</sys_ui_section>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_560804_wish_list_wish_item" sys_domain="global" view="Default view">3888b5a02f3120100b8c837cf699b65a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-16 01:14:08</sys_updated_on>
+            <sys_updated_on>2021-01-16 01:29:46</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_560804_wish_list_wish_item</name>
